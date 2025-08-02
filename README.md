@@ -34,3 +34,17 @@ This project analyzes IBM’s HR dataset to understand the patterns and causes b
 - Monthly income tends to be lower for employees who left
 - Departments like Sales show higher attrition rates
 
+
+## 💡 Outcome
+
+This project helps HR teams to identify high-risk segments and make better retention strategies based on data.
+
+---
+
+## 🔗 Author
+
+**Ei Chit Chit Po**  
+Aspiring Data Analyst | Skilled in Python, SQL, Power BI  
+📧 eichitpo2004@gmail.com 
+🌐 (https://eichit.github.io/eichit-portfolio/)
+
