@@ -1,5 +1,9 @@
 # Employee Attrition Analysis with Python
 
+![Attrition By Department](Attrition_By_Department.jpg)
+![Attrition_By_Overtime](Attrition_By_Overtime.jpg)
+![Monthly Income VS Attrition](Monthly_Income_VS_Attrition.jpg)
+
 This project analyzes IBM’s HR dataset to understand the patterns and causes behind employee attrition using Python. It focuses on discovering trends in job satisfaction, overtime, income, department, and gender to support data-driven HR strategies.
 
 ## 📊 Dataset
